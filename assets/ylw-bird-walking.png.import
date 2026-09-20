@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://gddl0nwsnmb6"
-path="res://.godot/imported/ylw-bird-flying.png-236c29d5f4269b3d682f30cf8830b6d6.ctex"
+uid="uid://cx42t5hcruivu"
+path="res://.godot/imported/ylw-bird-walking.png-7a6b022f84244b0e6ac7d80385c25778.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ylw-bird-flying.png"
-dest_files=["res://.godot/imported/ylw-bird-flying.png-236c29d5f4269b3d682f30cf8830b6d6.ctex"]
+source_file="res://assets/ylw-bird-walking.png"
+dest_files=["res://.godot/imported/ylw-bird-walking.png-7a6b022f84244b0e6ac7d80385c25778.ctex"]
 
 [params]
 
