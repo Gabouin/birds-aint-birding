@@ -25,6 +25,8 @@ Sprint: Shift
 
 Oh and btw I did this bird with my MacBook trackpad sob  
 <br>
+
+Play the game here: [birds aint birding](https://gababouin.itch.io/birds-aint-birding)
 **Enjoy it!!**
 
 *(I could have done something way better if I had time but school killed me sorry)*
